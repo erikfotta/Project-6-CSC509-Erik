@@ -7,23 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		13704B7823DAB5F300F4F8CD /* PointsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13704B7723DAB5F300F4F8CD /* PointsViewController.swift */; };
+		1370CB0A23D0FF2F004CEF62 /* MainToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1370CB0923D0FF2F004CEF62 /* MainToDoTableViewController.swift */; };
+		1370CB0C23D1003B004CEF62 /* MainToDoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1370CB0B23D1003B004CEF62 /* MainToDoTableViewCell.swift */; };
+		1370CB0E23D1037F004CEF62 /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1370CB0D23D1037F004CEF62 /* AddItemViewController.swift */; };
 		13747D0723CF7BC3004A1EDC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13747D0623CF7BC3004A1EDC /* AppDelegate.swift */; };
 		13747D0923CF7BC3004A1EDC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13747D0823CF7BC3004A1EDC /* SceneDelegate.swift */; };
-		13747D0B23CF7BC3004A1EDC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13747D0A23CF7BC3004A1EDC /* ViewController.swift */; };
 		13747D0E23CF7BC3004A1EDC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13747D0C23CF7BC3004A1EDC /* Main.storyboard */; };
 		13747D1023CF7BC8004A1EDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13747D0F23CF7BC8004A1EDC /* Assets.xcassets */; };
 		13747D1323CF7BC8004A1EDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13747D1123CF7BC8004A1EDC /* LaunchScreen.storyboard */; };
+		13D6D06923DF722700D3EBD1 /* LootBoxesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13D6D06823DF722700D3EBD1 /* LootBoxesViewController.swift */; };
+		13D6D06B23DF849D00D3EBD1 /* BlueBoxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13D6D06A23DF849D00D3EBD1 /* BlueBoxViewController.swift */; };
+		13D6D06D23DF84A900D3EBD1 /* PurpleBoxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13D6D06C23DF84A900D3EBD1 /* PurpleBoxViewController.swift */; };
+		13D6D06F23DF84B300D3EBD1 /* GoldBoxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13D6D06E23DF84B300D3EBD1 /* GoldBoxViewController.swift */; };
+		13D6D07123DF8CFB00D3EBD1 /* StoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13D6D07023DF8CFB00D3EBD1 /* StoreViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		13704B7723DAB5F300F4F8CD /* PointsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointsViewController.swift; sourceTree = "<group>"; };
+		1370CB0923D0FF2F004CEF62 /* MainToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainToDoTableViewController.swift; sourceTree = "<group>"; };
+		1370CB0B23D1003B004CEF62 /* MainToDoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainToDoTableViewCell.swift; sourceTree = "<group>"; };
+		1370CB0D23D1037F004CEF62 /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
 		13747D0323CF7BC3004A1EDC /* To Do App v1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "To Do App v1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13747D0623CF7BC3004A1EDC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		13747D0823CF7BC3004A1EDC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		13747D0A23CF7BC3004A1EDC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		13747D0D23CF7BC3004A1EDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		13747D0F23CF7BC8004A1EDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13747D1223CF7BC8004A1EDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		13747D1423CF7BC8004A1EDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13D6D06823DF722700D3EBD1 /* LootBoxesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LootBoxesViewController.swift; sourceTree = "<group>"; };
+		13D6D06A23DF849D00D3EBD1 /* BlueBoxViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueBoxViewController.swift; sourceTree = "<group>"; };
+		13D6D06C23DF84A900D3EBD1 /* PurpleBoxViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurpleBoxViewController.swift; sourceTree = "<group>"; };
+		13D6D06E23DF84B300D3EBD1 /* GoldBoxViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoldBoxViewController.swift; sourceTree = "<group>"; };
+		13D6D07023DF8CFB00D3EBD1 /* StoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +74,29 @@
 			children = (
 				13747D0623CF7BC3004A1EDC /* AppDelegate.swift */,
 				13747D0823CF7BC3004A1EDC /* SceneDelegate.swift */,
-				13747D0A23CF7BC3004A1EDC /* ViewController.swift */,
 				13747D0C23CF7BC3004A1EDC /* Main.storyboard */,
+				13704B7723DAB5F300F4F8CD /* PointsViewController.swift */,
+				1370CB0B23D1003B004CEF62 /* MainToDoTableViewCell.swift */,
+				1370CB0D23D1037F004CEF62 /* AddItemViewController.swift */,
+				1370CB0923D0FF2F004CEF62 /* MainToDoTableViewController.swift */,
 				13747D0F23CF7BC8004A1EDC /* Assets.xcassets */,
 				13747D1123CF7BC8004A1EDC /* LaunchScreen.storyboard */,
 				13747D1423CF7BC8004A1EDC /* Info.plist */,
+				13D6D07423E1EF9500D3EBD1 /* GoneButNotForgotten */,
 			);
 			path = "To Do App v1";
+			sourceTree = "<group>";
+		};
+		13D6D07423E1EF9500D3EBD1 /* GoneButNotForgotten */ = {
+			isa = PBXGroup;
+			children = (
+				13D6D06A23DF849D00D3EBD1 /* BlueBoxViewController.swift */,
+				13D6D07023DF8CFB00D3EBD1 /* StoreViewController.swift */,
+				13D6D06C23DF84A900D3EBD1 /* PurpleBoxViewController.swift */,
+				13D6D06E23DF84B300D3EBD1 /* GoldBoxViewController.swift */,
+				13D6D06823DF722700D3EBD1 /* LootBoxesViewController.swift */,
+			);
+			path = GoneButNotForgotten;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +170,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13747D0B23CF7BC3004A1EDC /* ViewController.swift in Sources */,
+				13704B7823DAB5F300F4F8CD /* PointsViewController.swift in Sources */,
 				13747D0723CF7BC3004A1EDC /* AppDelegate.swift in Sources */,
+				13D6D07123DF8CFB00D3EBD1 /* StoreViewController.swift in Sources */,
+				13D6D06F23DF84B300D3EBD1 /* GoldBoxViewController.swift in Sources */,
+				1370CB0C23D1003B004CEF62 /* MainToDoTableViewCell.swift in Sources */,
+				1370CB0A23D0FF2F004CEF62 /* MainToDoTableViewController.swift in Sources */,
 				13747D0923CF7BC3004A1EDC /* SceneDelegate.swift in Sources */,
+				1370CB0E23D1037F004CEF62 /* AddItemViewController.swift in Sources */,
+				13D6D06B23DF849D00D3EBD1 /* BlueBoxViewController.swift in Sources */,
+				13D6D06D23DF84A900D3EBD1 /* PurpleBoxViewController.swift in Sources */,
+				13D6D06923DF722700D3EBD1 /* LootBoxesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +325,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7TSJV4JQY8;
 				INFOPLIST_FILE = "To Do App v1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +343,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7TSJV4JQY8;
 				INFOPLIST_FILE = "To Do App v1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
